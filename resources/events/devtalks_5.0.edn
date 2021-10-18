@@ -1,0 +1,69 @@
+{:name "API DevTalks 5.0"
+ :event "Conférences"
+ :type "Conference"
+ :location "Haute école de gestion Arc – Auditorium 030 – Rez-de-chaussée"
+ :location-url ""
+ :date "jeudi 18 novembre 2021"
+ :hour "18h00"
+ :description "Après une période d'inactivité marquée par le Covid, nous sommes enfin de retour pour vous proposer une nouvelle soirée API DevTalks.
+
+Nous débuterons la soirée avec Helisoa Randrianasolo, victorieuse du Prix API lors de la poster session (présentation de poster décrivant le travail de bachelor). Par la suite, Robin Wyss de Dynatrace nous parlera du projet Keptn relatif au Continuous Delivery. Vincent Bozzo nous présentera son entreprise Matchmore SA, au travers de son service de Geomatching. Finalement, ...
+
+La soirée se terminera avec un apéritif dînatoire, excellente occasion d’échanger en tant que professionnel.le.s, futurs-professionnel.le.s ou passionné.e.s du domaine de l’informatique et des nouvelles technologies."
+ :description2 "<h2><span style=\"color:red\">Certificat Covid obligatoire pour la participation à cette soirée.</span></h2>"
+ :inscriptions1 "<strong>Cet événement est ouvert à toutes et à tous et est bien entendu gratuit !</strong><br />
+Pour des raisons d'organisation, nous vous prions de vous inscrire par le biais du formulaire ci-dessous"
+ :contact-form-id 3429
+ :speakers {:helisoa {:name "Helisoa Randrianasolo"
+                      :role "Bachelor en Informatique de gestion"
+                      :picture "-"
+                      :company "HEG Arc"
+                      :company-url "https://www.he-arc.ch/gestion/bachelor-ig"
+                      :company-logo "https://api-ne.ch/wp-content/uploads/2019/03/GES-MAN3-MOD001-logo-couleur-cmyk-e1561036634965.jpg"
+                      :linkedin "https://www.linkedin.com/in/robinwyss/"}
+            :robin {:name "Robin Wyss"
+                    :role "Sales Engineer"
+                    :picture "https://api-ne.ch/wp-content/uploads/2021/10/robin-wyss.jpeg"
+                    :company "Dynatrace"
+                    :company-url "https://www.dynatrace.fr"
+                    :company-logo "https://api-ne.ch/wp-content/uploads/2021/10/dynatrace_logo_web-e1634153834998.png"
+                    :linkedin "https://www.linkedin.com/in/robinwyss/"}
+            :vincent {:name "Vincent Bozzo"
+                      :role "Co-Founder"
+                      :picture "https://api-ne.ch/wp-content/uploads/2021/10/vincent-bozzo.jpeg"
+                      :company "Matchmore SA"
+                      :company-url "https://matchmore.io/"
+                      :company-logo "https://api-ne.ch/wp-content/uploads/2021/10/matchmore-e1634154671811.jpeg"
+                      :linkedin "https://www.linkedin.com/in/vbozzo/?originalSubdomain=ch"}
+            :xxx {:name "TBD"
+                  :role "TBD"
+                  :picture "-"
+                  :company "Canope"}}
+ :program [{:hour "18h00"
+            :title "Accueil – mot de bienvenue"}
+           {:hour "18h05"
+            :title "Conférence - Travail de Bachelor"
+            :description "TBD"
+            :speaker :helisoa}
+           {:hour "18h30"
+            :title "Adopter des approches SRE avec Keptn"
+            :description "Dynatrace est à l’origine du projet open source Keptn, qui a pour but de connecter et d’automatiser le continuous delivery et le monitoring. En se basant sur des standards comme les Cloud Events et en utilisant une approche « GitOps », Keptn permet de connecter les différents outils utilisés pour les déployments, les tests, le monitoring d’une manière déclarative et de mettre en place des contrôles de qualités (quality gates) et des systèmes de remédiation (auto remediation).
+
+                      En tant que Solution Engineer chez Dynatrace, j’aide nos clients à mettre en place le monitoring, qui permet de surveiller la performance, la disponibilité et la sécurité de leurs systèmes et applications"
+            :speaker :robin
+            }
+           {:hour "19h00"
+            :title "Petite pause"}
+           {:hour "19h10"
+            :title "TBD"
+            :description "TBD"
+            :speaker :vincent}
+           {:hour "19h45"
+            :title "TBD"
+            :description "TBD"
+            :speaker :xxx}
+           {:hour "20h15"
+            :title "Apéritif dînatoire"}]
+ :pictures ["https://api-ne.ch/wp-content/uploads/2020/03/DSC02021.jpg"
+            "https://api-ne.ch/wp-content/uploads/2020/03/DSC02006.jpg"
+            "https://api-ne.ch/wp-content/uploads/2020/03/DSC02025_v2.jpg"]}
