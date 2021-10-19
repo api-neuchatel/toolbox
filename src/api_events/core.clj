@@ -302,8 +302,6 @@
              opts))
 
 (defn render [data]
-  (prn "?")
-  (prn data)
   (cond
     (keyword? (first data))
     (let [[tag opts content] data]
