@@ -12,11 +12,11 @@ Nous débuterons la soirée avec Robin Wyss de Dynatrace qui nous parlera du pro
 La soirée se terminera avec un apéritif dînatoire, excellente occasion d’échanger en tant que professionnel.le.s, futurs-professionnel.le.s ou passionné.e.s du domaine de l’informatique et des nouvelles technologies."
  :description2 "<h2><span style=\"color:red\">Certificat Covid obligatoire pour la participation à cette soirée.</span></h2>"
  :inscriptions1 "<strong>Cet événement est ouvert à toutes et à tous et est bien entendu gratuit !</strong><br />
-Pour des raisons d'organisation, nous vous prions de vous inscrire par le biais du formulaire ci-dessous"
+Pour des raisons d'organisation, nous vous prions de vous inscrire par le biais du formulaire ci-dessous <span style=\"color:red;font-weight:bold\">jusqu'au 11 novembre 2021</span>"
  :contact-form-id 3429
  :speakers {:helisoa {:name "Helisoa Randrianasolo"
                       :role "Bachelor en Informatique de gestion"
-                      :picture "-"
+                      :picture "https://api-ne.ch/wp-content/uploads/2021/11/Helisoa_Randrianasolo_photo-e1635750212921.jpg"
                       :company "HEG Arc"
                       :company-url "https://www.he-arc.ch/gestion/bachelor-ig"
                       :company-logo "https://api-ne.ch/wp-content/uploads/2019/03/GES-MAN3-MOD001-logo-couleur-cmyk-e1561036634965.jpg"
