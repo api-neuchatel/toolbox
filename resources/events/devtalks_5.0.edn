@@ -20,7 +20,7 @@ Pour des raisons d'organisation, nous vous prions de vous inscrire par le biais 
                       :company "HEG Arc"
                       :company-url "https://www.he-arc.ch/gestion/bachelor-ig"
                       :company-logo "https://api-ne.ch/wp-content/uploads/2019/03/GES-MAN3-MOD001-logo-couleur-cmyk-e1561036634965.jpg"
-                      :linkedin "https://www.linkedin.com/in/robinwyss/"}
+                      :linkedin "-"}
             :robin {:name "Robin Wyss"
                     :role "Sales Engineer"
                     :picture "https://api-ne.ch/wp-content/uploads/2021/10/robin-wyss.jpeg"
